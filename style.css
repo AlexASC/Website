@@ -1,0 +1,29 @@
+body {
+    background-image:url(https://hdwallsource.com/img/2016/4/space-invaders-wallpaper-background-52021-53727-hd-wallpapers.jpg);
+    background-repeat:no-repeat;
+    background-size: 100vw auto;
+}
+
+.logo {
+    font-size: 60px;
+    color: palevioletred;
+    font-family: 'Do Hyeon', sans-serif;
+}
+
+.text {
+    font-family: 'Kirang Haerang', cursive;
+    font-size:20px; 
+    text-align:center;  
+    color:whitesmoke;
+    padding:30px;
+    border-color:purple;
+    border:solid;
+    border-radius:15px;
+    margin-left:400px;
+    margin-right:400px;
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdc44j5auhQdjpR7I4sP3x9O9GW_pav8dfamHz5LWqbTlYC3Yk)
+}
+
+.about {
+    
+}
